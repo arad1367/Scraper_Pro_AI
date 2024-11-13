@@ -1,0 +1,7 @@
+firecrawl-py
+openai
+python-dotenv
+pandas
+openpyxl
+streamlit
+xlsxwriter
