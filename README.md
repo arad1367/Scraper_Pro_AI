@@ -84,7 +84,8 @@ The application requires two API keys to function:
 
 Store your API keys securely and never commit them to version control.
 
-## Suggested Project Structure (I did not use asstes folder, but you can!🍁)
+## Suggested Project Structure
+* (I did not use asstes folder, but you can!🍁)
 
 ```
 web-scraper-pro/
